@@ -1,0 +1,30 @@
+@font-face
+{
+  font-family: HARRYP__;
+  src:url('HARRYP__.TTF');
+}
+
+#count
+{
+  font-size: 85px;
+  font-family: HARRYP__;
+  color: white;
+}
+
+/* #bg
+{
+  min-height: 100%;
+  min-width: 1024px;
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -999;
+  pointer-events: none;
+} */
+body
+{
+  background: url('794889.jpg');
+  background-size: cover;
+}
